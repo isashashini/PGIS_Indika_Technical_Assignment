@@ -1,4 +1,4 @@
-# NYC Airbnb Market Intelligence — Data Engineering Technical Assignment
+**Data Engineering Technical Assignment**
 
 **Candidate:** PGIS Indika  
 **Organisation:** Expernetic (Pvt) Ltd — Talent Assessment Program  
